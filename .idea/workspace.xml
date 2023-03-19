@@ -4,20 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2e785b73-88f6-48ed-b8cd-30486b8ee90d" name="变更" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/GreekAlphabet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/PerfectNumber.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SumFactorial.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SumFactorial2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SumPrime.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/UniFind.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test2.iml" afterDir="false" />
+    <list default="true" id="2e785b73-88f6-48ed-b8cd-30486b8ee90d" name="变更" comment="test">
+      <change afterPath="$PROJECT_DIR$/src/PerimeterArea.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/RandomAndSort.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -54,10 +45,11 @@
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
     &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;,
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="应用程序.PerfectNumber">
+  <component name="RunManager" selected="应用程序.RandomAndSort">
     <configuration name="PerfectNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="PerfectNumber" />
       <module name="test2" />
@@ -65,8 +57,15 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SumFactorial" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="SumFactorial" />
+    <configuration name="PerimeterArea" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="PerimeterArea" />
+      <module name="test2" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RandomAndSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="RandomAndSort" />
       <module name="test2" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -86,20 +85,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="UniFind" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="UniFind" />
-      <module name="test2" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="应用程序.RandomAndSort" />
+        <item itemvalue="应用程序.PerimeterArea" />
         <item itemvalue="应用程序.PerfectNumber" />
         <item itemvalue="应用程序.SumFactorial2" />
         <item itemvalue="应用程序.SumPrime" />
-        <item itemvalue="应用程序.SumFactorial" />
-        <item itemvalue="应用程序.UniFind" />
       </list>
     </recent_temporary>
   </component>
@@ -115,11 +107,35 @@
       <workItem from="1679059602671" duration="84000" />
       <workItem from="1679059694942" duration="1699000" />
       <workItem from="1679110176762" duration="5000" />
-      <workItem from="1679212577531" duration="5323000" />
+      <workItem from="1679212577531" duration="7851000" />
+      <workItem from="1679226276581" duration="1885000" />
     </task>
+    <task id="LOCAL-00001" summary="test">
+      <created>1679218169350</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1679218169350</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="test" />
+    <option name="LAST_COMMIT_MESSAGE" value="test" />
   </component>
 </project>
